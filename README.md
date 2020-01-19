@@ -1,2 +1,2 @@
 # Dsa-programes
-Progames of diffrent types of data structures
+Progames of different types of data structures written in c or c++ language.
